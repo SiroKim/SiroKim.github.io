@@ -1,9 +1,9 @@
 # 백엔드 개발자
 
 ## Info 
-    Name : 김경곤<br>
-    Mail : 3kofking@gmail.com<br>
-    GitHub : SiroKim(https://github.com/SiroKim)<br>
+    Name : 김경곤
+    Mail : 3kofking@gmail.com
+    GitHub : SiroKim(https://github.com/SiroKim)
 
 
 
