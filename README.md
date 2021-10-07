@@ -28,17 +28,16 @@
 
 ## Career
 
-포스코 MES 3.0 
-
 포스코 MES 품질판정 국내/해외 시스템 개발 & 운영<br>
 고잉컴 (2014.02 ~ 현재) 7년 
 
     담당업무
     국내 제품판정/화학시험/품질트래킹/조업품질지시/특별시험 시스템 개발 & 운영
     해외 태국,멕시코,인도,인도네시아,중국 등 11개 법인 시스템 개발 & 운영
+    현업 요청사항 유지보수(500여개) 및 리팩토링
 
     사용기술
-    Java(Spring-JSP), Oracle, Glue
+    Java(Spring-JSP), Oracle, Glue, Git(BitBucket)
 
 포스코 MES 냉연/순환품 시스템 개발 & 운영<br>
 뉴하이텍 (2011.10 ~ 2014.01) 2년 3개월
@@ -47,4 +46,19 @@
     현업 요청사항 유지보수(200여개) 및 리팩토링
 
     사용 기술
-    Java(Spring-JSP), Oracle
+    Java(Spring-JSP), Oracle, Dimension
+    
+## Project
+
+    MES3.0 품질판정 시스템 화면 개발(MSA 기반)
+    기간 : 2021.04 ~ 2021.08(4개월)
+    사용기술 : Java, Spring, SpringBoot, Spring Cloud, MSA, Git(BitBucket)
+
+    포스코 인터내셔널 후처리 설비도입 정보화 구축
+    기간 : 2020.03 ~ 2020.06(3개월)
+    사용기술 : Java(Spring-JSP), Oracle, Glue, Git(BitBucket)
+
+    포스코 MES 5차 서버 Refresh
+    기간 : 2016.03 ~ 2016.08(5개월)
+    사용기술 : Java(Spring-JSP), Oracle, Spring MVC
+
